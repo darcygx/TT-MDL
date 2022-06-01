@@ -1,5 +1,4 @@
 # TT-MDL
-MATLAB code of SPL2020-Tensor Denoising Using Low-Rank Tensor Train Decomposition.
 MATLAB codes to reproduce the experiments in the paper.
 ----------------------------------------------------------------------------------------------
 # Folder structure

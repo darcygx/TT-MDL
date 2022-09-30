@@ -3,9 +3,8 @@ MATLAB codes to reproduce the experiments in the paper.
 ----------------------------------------------------------------------------------------------
 # Folder structure
 ```shell
-Demo_face_desparse.m          : Facial Image Denoising (salt-and-pepper noise).
-EBM_RPCA.m                    : the main function of the proposed Empirical Bayes Method for tensor RPCA
-Parset.m                      : the tuned parameters
+Demo_synthetic.m : Reproduce the Figure 1. Compare the denoising performance of TT and Tucker on synthetic data.
+Demo_HSI.m : Compare the denoising performance of TT and Tucker on a CAVE HSI.
 data\
 ├────CAVE_feathers.mat              : a test HSI
 lib\                                : a directory including MATLAB codes for the proposed algorithm and some toolboxes.
